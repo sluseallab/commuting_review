@@ -1,0 +1,39 @@
+---
+title: "Interactive Taxonomy"
+author: " "
+date: " "
+output:
+  html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(readxl)
+library(tidyverse)
+library(collapsibleTree)
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+Commuting <- read_excel("data/taxonomy.xlsx")
+```
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+collapsibleTree(
+  Commuting,
+  hierarchy = c("Stressor Domain", 
+                "Stressor", 
+                "Strain Domain",
+                "Strain",
+                "Citation",
+                "Finding"),
+  width = 1200,
+  height	= 1200,
+  zoomable = TRUE,
+  tooltip = FALSE,
+  collapsed = TRUE
+)
+```
+

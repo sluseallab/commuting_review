@@ -1,0 +1,29 @@
+---
+title: "Dynamic Table"
+author: " "
+date: " "
+output:
+  html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(readxl)
+library(tidyverse)
+library(DT)
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+data <- read_excel("data/table.xlsx")
+```
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+DT::datatable(data, 
+              class = 'cell-border stripe', 
+              rownames = FALSE,
+              caption = 'Table A1: Summary of k = 109 Studies Included in Systematic Review.')
+```
+

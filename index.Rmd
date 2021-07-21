@@ -1,0 +1,37 @@
+---
+title: "Commuting and Strain: A Systematic Review and Meta-analysis"
+subtitle: " "
+output: html_document
+---
+
+<div class="row" style="padding-left: 15px;">
+
+<br>
+
+### **Instructions:** 
+
+#### Welcome to the online appendix (OA) for the manuscript **_Commuting and Strain: A Systematic Review and Meta-analysis._** 
+
+- To explore the online appendix tables for this paper, click on [Table](table.html), above.
+
+- To explore the interactive commuting strain taxonomy, click [Taxonomy](taxonomy.html), above.
+
+- To access supporting files (e.g., static tables, supplementary analyses), please click [here](https://osf.io/z87qg/?view_only=60a7db567dbb4f40a60b4807b455a1e0).
+
+- To view the preregistrarion, please click [here](https://osf.io/gp6ks/?view_only=7d928022d6c544f8a000de7620244703).
+
+</div>
+
+<br>
+<br>
+
+<!-- <center>  -->
+
+<!-- #### Developed by [SEAL Lab](https://www.cortrudolph.com) -->
+
+<!-- <a href = "https://www.cortrudolph.com"> -->
+
+<!-- <img src="images/logo1.png" width="100" height="112.5"> -->
+
+<!-- </center> -->
+

@@ -1,0 +1,11 @@
+name: "Commuting and Strain: A Systematic Review and Meta-analysis"
+navbar:
+  title: "Online Appendix"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Table"
+      href:  table.html
+    - text: "Taxonomy"
+      href:  taxonomy.html
+output_dir: "docs"
