@@ -1,5 +1,5 @@
 ---
-title: "Commuting and Strain: A Systematic Review and Meta-analysis"
+title: "Commuting, Strain, and Wellbeing: A Systematic Review and Meta-analysiss"
 subtitle: " "
 output: html_document
 ---
@@ -10,13 +10,13 @@ output: html_document
 
 ### **Instructions:** 
 
-#### Welcome to the online appendix (OA) for the manuscript **_Commuting and Strain: A Systematic Review and Meta-analysis._** 
+#### Welcome to the supplementary website for the manuscript **_Commuting, Strain, and Wellbeing: A Systematic Review and Meta-analysis._** 
 
-- To explore the online appendix tables for this paper, click on [Table](table.html), above.
+- To explore the dynamic (i.e., searchable/sortable) table of results for this paper, please click on [Dynamic Table](dynamic_table.html), above.
 
-- To explore the interactive commuting strain taxonomy, click [Taxonomy](taxonomy.html), above.
+- To explore the interactive commuting strain and wellbeing results map, please click [Results Map](results_map.html), above.
 
-- To access supporting files (e.g., static tables, supplementary analyses), please click [here](https://osf.io/z87qg/?view_only=60a7db567dbb4f40a60b4807b455a1e0).
+- To access supporting files in our online appendix, please click [here](https://osf.io/z87qg/?view_only=60a7db567dbb4f40a60b4807b455a1e0).
 
 - To view the preregistrarion, please click [here](https://osf.io/gp6ks/?view_only=7d928022d6c544f8a000de7620244703).
 

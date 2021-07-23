@@ -1,11 +1,11 @@
-name: "Commuting and Strain: A Systematic Review and Meta-analysis"
+name: "Commuting, Strain, and Wellbeing: A Systematic Review and Meta-analysis"
 navbar:
-  title: "Online Appendix"
+  title: "Supplementary Website"
   left:
     - text: "Home"
       href: index.html
-    - text: "Table"
-      href:  table.html
-    - text: "Taxonomy"
-      href:  taxonomy.html
+    - text: "Dynamic Table"
+      href:  dynamic_table.html
+    - text: "Results Map"
+      href:  results_map.html
 output_dir: "docs"
