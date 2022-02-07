@@ -20,6 +20,18 @@ library(collapsibleTree)
 Commuting <- read_excel("data/taxonomy.xlsx")
 ```
 
+**Instructions:** This is an interactive “map” of the the results of our systematic qualitative review. To use, click on any given circle icon, below. The hierarchy of the results map is organized as such:
+
+*Objective vs. Subjective Stressors*  
+*Objective vs. Subjective Strains*  
+
+Individual studies that result from crossing “stressors” and “strains” appear next with accompanying “results” represented as such:  
+
+**+** = a positive relation  
+**-** = a negative relation  
+**N.S.** = a non-significant relation  
+
+
 ```{r message=FALSE, warning=FALSE, echo=FALSE}
 collapsibleTree(
   Commuting,

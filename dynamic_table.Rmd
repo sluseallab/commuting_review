@@ -20,6 +20,8 @@ library(DT)
 data <- read_excel("data/table.xlsx")
 ```
 
+**Instructions:** This is a dynamic table, which means that it is “searchable” (e.g., for keywords) and “sortable” (e.g., by operationalizations of variables included in our review). To search, enter keywords in the search field in the upper-right corner of the table. To sort, click the up/down arrow icon in the upper-rights corner of any column.
+
 ```{r message=FALSE, warning=FALSE, echo=FALSE}
 DT::datatable(data, 
               width = 3000,
