@@ -22,10 +22,13 @@ Commuting <- read_excel("data/taxonomy.xlsx")
 
 **Instructions:** This is an interactive “map” of the the results of our systematic qualitative review. To use, click on any given circle icon, below. The hierarchy of the results map is organized as such:
 
-*Objective vs. Subjective Stressors*  
-*Objective vs. Subjective Strains*  
+*1. Objective Commuting Demands vs. Subjective Commuting Appraisals*  
+*2. Specific Demands/Appraisals*  
+*3. Form of Outcome (i.e., Subjective vs. Objective)*  
+*4. Domain of Outcome (i.e., Strain-Related vs. Wellbeing-Related)*  
+*5. Specific Outcome*  
 
-Individual studies that result from crossing “stressors” and “strains” appear next with accompanying “results” represented as such:  
+Individual studies (with citations) that result from crossing “demands” and “strains” appear next with accompanying “results” represented as such:  
 
 **+** = a positive relation  
 **-** = a negative relation  
@@ -35,9 +38,10 @@ Individual studies that result from crossing “stressors” and “strains” a
 ```{r message=FALSE, warning=FALSE, echo=FALSE}
 collapsibleTree(
   Commuting,
-  hierarchy = c("Stressor Domain", 
-                "Stressor", 
-                "Strain Domain",
+  hierarchy = c("Demand Domain", 
+                "Demand",
+                "Outcome Form",
+                "Outcome Domain",
                 "Strain",
                 "Citation",
                 "Finding"),

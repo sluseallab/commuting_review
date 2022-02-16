@@ -1,5 +1,5 @@
 ---
-title: "Commuting, Strain, and Wellbeing: A Systematic Review and Meta-analysiss"
+title: "Commuting Demands & Appraisals: A Systematic Review and Meta-analysis"
 subtitle: " "
 output: html_document
 ---
@@ -10,7 +10,7 @@ output: html_document
 
 ### **Instructions:** 
 
-#### Welcome to the supplementary website for the manuscript **_Commuting, Strain, and Wellbeing: A Systematic Review and Meta-analysis._** 
+#### Welcome to the supplementary website for the manuscript **_Commuting Demands & Appraisals: A Systematic Review and Meta-analysis._** 
 
 - To explore the dynamic (i.e., searchable/sortable) table of results for this paper, please click on [Dynamic Table](dynamic_table.html), above.
 
@@ -18,7 +18,7 @@ output: html_document
 
 - To access supporting files in our online appendix, please click [here](https://osf.io/z87qg/?view_only=60a7db567dbb4f40a60b4807b455a1e0).
 
-- To view the preregistrarion, please click [here](https://osf.io/gp6ks/?view_only=7d928022d6c544f8a000de7620244703).
+- To view the preregistration, please click [here](https://osf.io/gp6ks/?view_only=7d928022d6c544f8a000de7620244703).
 
 </div>
 
