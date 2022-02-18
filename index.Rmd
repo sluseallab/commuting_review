@@ -1,5 +1,5 @@
 ---
-title: "Commuting Demands & Appraisals: A Systematic Review and Meta-analysis"
+title: "Commuting Demands & Appraisals: A Systematic Review and Meta-analysis of Strain and Wellbeing Outcomes"
 subtitle: " "
 output: html_document
 ---
@@ -10,7 +10,7 @@ output: html_document
 
 ### **Instructions:** 
 
-#### Welcome to the supplementary website for the manuscript **_Commuting Demands & Appraisals: A Systematic Review and Meta-analysis._** 
+#### Welcome to the supplementary website for the manuscript **_Commuting Demands & Appraisals: A Systematic Review and Meta-analysis of Strain and Wellbeing Outcomes._** 
 
 - To explore the dynamic (i.e., searchable/sortable) table of results for this paper, please click on [Dynamic Table](dynamic_table.html), above.
 

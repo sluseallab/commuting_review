@@ -25,7 +25,7 @@ Commuting <- read_excel("data/taxonomy.xlsx")
 *1. Objective Commuting Demands vs. Subjective Commuting Appraisals*  
 *2. Specific Demands/Appraisals*  
 *3. Form of Outcome (i.e., Subjective vs. Objective)*  
-*4. Domain of Outcome (i.e., Strain-Related vs. Wellbeing-Related)*  
+*4. Domain of Outcome (i.e., Strain vs. Wellbeing)*  
 *5. Specific Outcome*  
 
 Individual studies (with citations) that result from crossing “demands” and “strains” appear next with accompanying “results” represented as such:  
