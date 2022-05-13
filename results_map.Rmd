@@ -22,7 +22,7 @@ Commuting <- read_excel("data/taxonomy.xlsx")
 
 **Instructions:** This is an interactive “map” of the the results of our systematic qualitative review. To use, click on any given circle icon, below. The hierarchy of the results map is organized as such:
 
-*1. Objective Commuting Demands vs. Subjective Commuting Appraisals*  
+*1. Commuting Demands vs. Commuting Appraisals*  
 *2. Specific Demands/Appraisals*  
 *3. Form of Outcome (i.e., Subjective vs. Objective)*  
 *4. Domain of Outcome (i.e., Strain vs. Wellbeing)*  
